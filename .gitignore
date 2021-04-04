@@ -1,3 +1,5 @@
 *.txt
 
 /some
+
+!some-3.txt
